@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems/A simple calculator" />
+            <option value="$PROJECT_DIR$/Problems/An expression with large numbers" />
+            <option value="$PROJECT_DIR$/Problems/Comparing numbers" />
+            <option value="$PROJECT_DIR$/Problems/Double characters" />
+            <option value="$PROJECT_DIR$/Problems/From string to a number" />
+            <option value="$PROJECT_DIR$/Problems/Groundhogs at a party" />
+            <option value="$PROJECT_DIR$/Problems/Number of occurrences" />
+            <option value="$PROJECT_DIR$/Problems/Sorting numbers" />
+            <option value="$PROJECT_DIR$/Problems/Symmetric matrix" />
+            <option value="$PROJECT_DIR$/Problems/Test learners" />
+            <option value="$PROJECT_DIR$/Problems/The LIFO principle in action" />
+            <option value="$PROJECT_DIR$/Problems/The army of units" />
+            <option value="$PROJECT_DIR$/Problems/The longest ascending sequence" />
+            <option value="$PROJECT_DIR$/Problems/The minimum value of an array" />
+            <option value="$PROJECT_DIR$/Problems/The smallest value" />
+            <option value="$PROJECT_DIR$/Problems/Triangle" />
+            <option value="$PROJECT_DIR$/Problems/Which brackets are balanced" />
+            <option value="$PROJECT_DIR$/Problems/Working with queue" />
+            <option value="$PROJECT_DIR$/Smart Calculator/task" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
